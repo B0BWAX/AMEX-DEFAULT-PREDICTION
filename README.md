@@ -1,4 +1,4 @@
-##AMEX Default Prediction
+## AMEX Default Prediction
 Based on the [Kaggle competition dataset](https://www.kaggle.com/competitions/amex-default-prediction/overview)
 
 References:
